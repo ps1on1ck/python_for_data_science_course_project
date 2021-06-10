@@ -1,2 +1,2 @@
-# python_for_data_science_course_project
+# Python for Data Science
 Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn
